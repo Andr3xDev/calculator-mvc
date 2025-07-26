@@ -67,8 +67,8 @@ Installation and Execution
 
 ```sh
 Clone the repository:
-git clone https://github.com/Andr3xDev/ARSW-Calculator.git
-cd ARSW-Calculator
+git clone https://github.com/Andr3xDev/calculator-mvc.git
+cd calculator-mvc
 ```
 
 Build the project with Maven:
